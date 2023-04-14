@@ -30,6 +30,9 @@ I'm currently learning 🌐web frontend🌐 and I ❤️ Webb so much. In additi
    <a href="https://www.javascript.com/">
     <img  src="https://github.com/GamerF1y/GamerF1y.github.io/blob/master/images/javascript-logo.png" alt="javascript logo" width="40px" height="40px"/>
   </a>
+     <a href="https://www.w3.org/Style/CSS/Overview.en.html">
+    <img  src="https://github.com/GamerF1y/GamerF1y.github.io/blob/master/images/css-logo.png" alt="javascript logo" width="40px" height="40px"/>
+  </a>
 </p>
 
 #### Code Tools:
